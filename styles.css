@@ -115,8 +115,14 @@ nav img{
 
 }
 
-.btn-encriptar:hover, .btn-desencriptar:hover{
+.btn-encriptar:hover{
     margin: 0.3%;
+    width: 24.5%;
+    padding: 1.8%;
+}
+
+.btn-desencriptar:hover{
+    margin-left: 1.5%;
     width: 24.5%;
     padding: 1.8%;
 }
